@@ -1,1 +1,2 @@
 MONGO = "mongodb+srv://sahand:sahand@mern-estate.2owncsi.mongodb.net/mern-estate?retryWrites=true&w=majority"
+JWT_SECRET = "ewrfdgggrewgdf2234542456"
